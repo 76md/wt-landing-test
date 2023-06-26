@@ -1,6 +1,6 @@
 @font-face {
     font-family: Founder;
-    src: url('/font/FoundersGroteskCondensed-Bold.ttf');
+    src: url('FoundersGroteskCondensed-Bold.ttf');
 }
 
 * {
@@ -69,7 +69,7 @@ body {
 
 #main h1 {
     font-family: Founder;
-    font-size: 13vw;
+    font-size: 20vw;
     text-align: center;
     position: absolute;
     left: 50%;
